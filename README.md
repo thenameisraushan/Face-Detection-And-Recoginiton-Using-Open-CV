@@ -1,2 +1,1 @@
-# Salesforce-Developer
-Virtual Internship (SDE)
+COllege Project
